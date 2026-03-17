@@ -335,7 +335,3 @@ This project template can be adapted for:
 - [ ] Geographic expansion modeling
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License - see below:
